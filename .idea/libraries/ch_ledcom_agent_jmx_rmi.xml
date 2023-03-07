@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ch.ledcom.agent.jmx.rmi" type="repository">
+    <properties maven-id="ch.ledcom.agent.jmx:jmx-rmi-agent:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/ledcom/agent/jmx/jmx-rmi-agent/1.1/jmx-rmi-agent-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
